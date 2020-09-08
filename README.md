@@ -16,9 +16,9 @@
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Google SSO with Elastic Cloud](https://www.julientanay.com/blog/blog/2020-08-21-elastic-cloud-sso/)
 - [A simple yet production ready NodeJS logger](https://www.julientanay.com/blog/blog/2020-07-27-snippet-node-js-logger/)
 - [Keep your dependencies up to date with Renovate and Github Actions](https://www.julientanay.com/blog/blog/2020-02-15-renovate-and-github-actions/)
 - [Bootstrapping a Twitch Extension with NextJS](https://www.julientanay.com/blog/blog/2019-10-07-bootstrapping-twitch-ext-nextjs/)
 - [Documenting your Flask-powered API like a boss](https://www.julientanay.com/blog/blog/2017-11-27-documenting-your-flask-powered-api-like-a-boss/)
-- [Pipfile and Pipenv : the future of Python dependencies management](https://www.julientanay.com/blog/blog/2017-11-07-pipfile-and-pipenv-the-future-of-python-dependencies-management/)
 <!-- BLOG-POST-LIST:END -->
